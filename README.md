@@ -31,26 +31,23 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hminh1231&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hminh1231&layout=compact&theme=tokyonight&hide_border=false" alt="top langs" />
+  <img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hminh1231&theme=tokyonight&hide_border=false" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hminh1231&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hminh1231&theme=tokyonight&hide_border=false" alt="Streak" />
 </p>
 
 ---
 
-## Contribution graph
+## Contribution snake
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=hminh1231&theme=tokyo-night&hide_border=false)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="./dist/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-<p align="center">
-  <i>Top languages chỉ phản ánh tỉ lệ code public trên GitHub, không đồng nghĩa trình độ.</i>
-</p>
+<p align="center"><sub>Thống kê ngôn ngữ chỉ dựa trên repo public.</sub></p>
